@@ -2,3 +2,13 @@ body
 {
 background-color rgb(20,40,100);
 }
+h1
+{
+  text-decoration: underline;
+  text-align: center;
+  color: rgb(10,10,20)
+}
+ul
+{
+  font-size: 18pt; 
+}
